@@ -1,0 +1,12 @@
+node_modules
+.next
+.eslintrc.json
+.prettierrc
+.vscode
+next.config.mjs
+package-lock.json
+package.json
+postcss.config.mjs
+README.md
+tailwind.config.ts
+tsconfig.json
